@@ -1,0 +1,15 @@
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\bin\Debug\net8.0\M01A02A.exe
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\bin\Debug\net8.0\M01A02A.deps.json
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\bin\Debug\net8.0\M01A02A.runtimeconfig.json
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\bin\Debug\net8.0\M01A02A.dll
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\bin\Debug\net8.0\M01A02A.pdb
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\M01A02A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\M01A02A.AssemblyInfoInputs.cache
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\M01A02A.AssemblyInfo.cs
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\M01A02A.csproj.CoreCompileInputs.cache
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\M01A02A.sourcelink.json
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\M01A02A.dll
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\refint\M01A02A.dll
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\M01A02A.pdb
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\M01A02A.genruntimeconfig.cache
+D:\Camilo\Futuro_Programador\curso-c-sharp\AmbienteM01\M01A02A\obj\Debug\net8.0\ref\M01A02A.dll
