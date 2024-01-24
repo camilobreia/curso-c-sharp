@@ -1,0 +1,14 @@
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\bin\Debug\net8.0\A011.exe
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\bin\Debug\net8.0\A011.deps.json
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\bin\Debug\net8.0\A011.runtimeconfig.json
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\bin\Debug\net8.0\A011.dll
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\bin\Debug\net8.0\A011.pdb
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\obj\Debug\net8.0\A011.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\obj\Debug\net8.0\A011.AssemblyInfoInputs.cache
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\obj\Debug\net8.0\A011.AssemblyInfo.cs
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\obj\Debug\net8.0\A011.csproj.CoreCompileInputs.cache
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\obj\Debug\net8.0\A011.dll
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\obj\Debug\net8.0\refint\A011.dll
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\obj\Debug\net8.0\A011.pdb
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\obj\Debug\net8.0\A011.genruntimeconfig.cache
+D:\Camilo\Futuro_Programador\exercicios-c-sharp\Exercicios-POO\A011\obj\Debug\net8.0\ref\A011.dll
