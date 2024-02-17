@@ -1,1 +1,1 @@
-Projetos iniciais para aprendizado de C# + POO
+Basic Projects for learning C# and OOP
