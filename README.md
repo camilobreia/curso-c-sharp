@@ -1,2 +1,1 @@
-# curso-c-sharp
- Curso C# - Prof. Gustavo Guanabara
+Projetos iniciais para aprendizado de C# + POO
